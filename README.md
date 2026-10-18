@@ -40,4 +40,4 @@ A pay gap measures the difference in average pay between men and women across a 
 
 ## Author
 Zufishaa ayub
-[LinkedIn]((https://www.linkedin.com/in/zufishaa-ayub-19b515248))
+ [LinkedIn](https://www.linkedin.com/in/zufishaa-ayub-19b515248) 
