@@ -1,6 +1,6 @@
 # Climbing the Pay Ladder: UK Gender Pay Gap Analysis
 
-An interactive Power BI dashboard analysing gender pay gap data reported by ~11,000 UK employers to the UK Government Gender Pay Gap Service (2025–26 reporting year).
+An interactive Power BI dashboard analysing gender pay gap data reported by 11,000 UK employers to the UK Government Gender Pay Gap Service (2025–26 reporting year).
 
 ![Dashboard](dashboard.png)
 
